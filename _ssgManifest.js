@@ -1,0 +1,1 @@
+self.__SSG_MANIFEST=new Set(["\u002F","\u002FalbStats","\u002Fchain\u002F[chain]","\u002Fchainlist","\u002Fmemecoin","\u002Fmemecoin\u002F[chain]","\u002Fmemecoin\u002F[chain]\u002F[memecoin]","\u002Fnftfest","\u002Fnftfest\u002F1st"]);self.__SSG_MANIFEST_CB&&self.__SSG_MANIFEST_CB()
